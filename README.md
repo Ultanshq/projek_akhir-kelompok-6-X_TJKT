@@ -1,2 +1,5 @@
-# projek_akhir-kelompok-6-X_TJKT
-Created with CodeSandbox
+<h1>project web(Sund-Resto)</h1>
+<p>anggota:     -Sultan     : otak dari web, membuat laporan, membuat PPT
+                -Rezky      : Mencari bahan untuk makanan
+                -Munanzah   : Konsumsi
+                -Rizki M    : Transportasi
